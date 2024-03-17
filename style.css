@@ -459,10 +459,10 @@ h3 {
     gap: 1.5rem;
   }
   .habilities-img-container div img {
-    max-width: 200px;
+    max-width: 100%;
   }
   .habilities-img-container div p {
-    max-width: 200px;
+    max-width: 100%;
   }
   .habilities-img-container div p {
     font-size: 0.8rem;
@@ -483,7 +483,7 @@ h3 {
     gap: 2rem;
   }
   .price-content-text {
-    max-width: 200px;
+    max-width: 100%;
     padding: 1rem;
   }
   .price-content-text h1 {
@@ -493,10 +493,10 @@ h3 {
     font-size: 0.8rem;
   }
   .price-content-text h2 {
-    font-size: 1rem;
+    font-size: 2.4rem;
   }
   .price-content-text h3 {
-    font-size: 1rem;
+    font-size: 1.4rem;
     text-decoration: line-through 1px;
   }
 
