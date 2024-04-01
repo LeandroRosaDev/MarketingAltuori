@@ -426,6 +426,27 @@ h3 {
   width: 50px;
 }
 
+/* BOTÃO SCROLL TO TOP */
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+
+  left: 10px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+  padding: 0;
+  border-radius: 10px;
+  width: 79px;
+}
+
+#myBtn:hover {
+  opacity: 0.8;
+}
+
 @media (max-width: 1040px) {
   header {
     height: 980px;
